@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BCA.Core\BCA.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ComplexType\" />
+  </ItemGroup>
+
+</Project>
